@@ -48,9 +48,9 @@ app.post("/uploadphoto",upload.single('myImage'),(req,res)=>{
   })
 })
 //Code to start server
-app.listen(4000,function () {
-    console.log("Server Started at PORT 4000");
-})
+// app.listen(4000,function () {
+//     console.log("Server Started at PORT 4000");
+// })
 
 app.use(logger('dev'));
 app.use(express.json());
