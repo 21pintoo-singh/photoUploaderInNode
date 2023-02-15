@@ -162,7 +162,7 @@ npm start
 
 after run this command open your browser and hit 
 
-http://127.0.0.1:3000/
+http://127.0.0.1:4000/
 
 Conclusion
 Node js + MongoDB + express file upload; In this tutorial, you have learned how to upload image files in the MongoDB database using Node js + Express.
